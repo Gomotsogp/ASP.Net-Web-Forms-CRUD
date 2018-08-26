@@ -1,0 +1,13 @@
+﻿
+2018/08/26 20:03:26-- Cannot open database "Task2Db" requested by the login. The login failed.
+Login failed for user 'DESKTOP-HH8ENMS\Musman'.
+2018/08/26 20:09:14-- Cannot open database "Task2Db" requested by the login. The login failed.
+Login failed for user 'DESKTOP-HH8ENMS\Musman'.
+2018/08/26 20:09:50-- Cannot open database "Task2Db" requested by the login. The login failed.
+Login failed for user 'DESKTOP-HH8ENMS\Musman'.
+2018/08/26 20:23:05-- Cannot open database "Task2Db" requested by the login. The login failed.
+Login failed for user 'DESKTOP-HH8ENMS\Musman'.
+2018/08/26 20:25:11-- Cannot open database "Task2Db" requested by the login. The login failed.
+Login failed for user 'DESKTOP-HH8ENMS\Musman'.
+2018/08/26 20:28:24-- Cannot open database "Task2Db" requested by the login. The login failed.
+Login failed for user 'DESKTOP-HH8ENMS\Musman'.
